@@ -1,2 +1,2 @@
-# SpringData-Es Intigration Example
-Spring Data and Elastic Search Intigration
+# SpringData-Es Integration Example
+Spring Data and Elastic Search Integration
